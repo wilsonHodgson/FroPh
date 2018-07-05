@@ -17,6 +17,13 @@ When the interrogating player fires their gun all speech bubbles pop. The interr
 If the interrogator runs out of bullets, runs out of time, or shoots the other scientist, the game is over and the alien wins.
 Otherwise the scientists win.
 
+## Planning
+
+# Rewatch video, and determine subsystems
+# Implement subsystems individually, ensure each one networks on its own.
+#	get more comfortable with unity network.
+# Combine functioning networked subsystems one by one into the game, test each time
+
 # Credit
 
 # Game Design
